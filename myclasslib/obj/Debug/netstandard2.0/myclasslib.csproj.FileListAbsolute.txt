@@ -1,0 +1,9 @@
+C:\Users\KMDEV\myfabulousapp\myclasslib\bin\Debug\netstandard2.0\myclasslib.deps.json
+C:\Users\KMDEV\myfabulousapp\myclasslib\bin\Debug\netstandard2.0\myclasslib.dll
+C:\Users\KMDEV\myfabulousapp\myclasslib\bin\Debug\netstandard2.0\myclasslib.pdb
+C:\Users\KMDEV\myfabulousapp\myclasslib\obj\Debug\netstandard2.0\myclasslib.csprojAssemblyReference.cache
+C:\Users\KMDEV\myfabulousapp\myclasslib\obj\Debug\netstandard2.0\myclasslib.csproj.CoreCompileInputs.cache
+C:\Users\KMDEV\myfabulousapp\myclasslib\obj\Debug\netstandard2.0\myclasslib.AssemblyInfoInputs.cache
+C:\Users\KMDEV\myfabulousapp\myclasslib\obj\Debug\netstandard2.0\myclasslib.AssemblyInfo.cs
+C:\Users\KMDEV\myfabulousapp\myclasslib\obj\Debug\netstandard2.0\myclasslib.dll
+C:\Users\KMDEV\myfabulousapp\myclasslib\obj\Debug\netstandard2.0\myclasslib.pdb
